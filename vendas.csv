@@ -1,0 +1,51 @@
+id_venda,data,produto,categoria,quantidade,preco_unitario,canal_venda
+1,2026-02-12,Mouse Gamer,Periféricos,5,120.0,Loja Física
+2,2026-04-02,Cadeira Ergonômica,Móveis,3,1100.0,E-commerce
+3,2026-02-21,Monitor 24,Monitores,5,850.0,Online
+4,2026-01-26,Teclado Mecânico,Periféricos,3,250.0,Online
+5,2026-01-30,Cadeira Ergonômica,Móveis,2,1100.0,E-commerce
+6,2026-02-17,Webcam HD,Periféricos,2,180.0,Loja Física
+7,2026-03-20,Webcam HD,Periféricos,1,180.0,Loja Física
+8,2026-01-29,Webcam HD,Periféricos,1,180.0,E-commerce
+9,2026-03-13,Monitor 24,Monitores,5,850.0,E-commerce
+10,2026-04-19,Mouse Gamer,Periféricos,1,120.0,E-commerce
+11,2026-04-14,Headset USB,Áudio,3,200.0,Loja Física
+12,2026-04-16,Teclado Mecânico,Periféricos,2,250.0,Online
+13,2026-04-20,Mouse Gamer,Periféricos,1,120.0,Online
+14,2026-02-21,Teclado Mecânico,Periféricos,3,250.0,Online
+15,2026-02-18,Headset USB,Áudio,2,200.0,Loja Física
+16,2026-05-25,Webcam HD,Periféricos,5,180.0,Loja Física
+17,2026-02-11,Headset USB,Áudio,4,200.0,Online
+18,2026-01-29,Teclado Mecânico,Periféricos,4,250.0,Loja Física
+19,2026-07-15,Teclado Mecânico,Periféricos,5,250.0,Online
+20,2026-06-12,Webcam HD,Periféricos,4,180.0,Online
+21,2026-06-18,Mouse Gamer,Periféricos,4,120.0,Loja Física
+22,2026-04-06,Cadeira Ergonômica,Móveis,4,1100.0,E-commerce
+23,2026-02-23,Monitor 24,Monitores,4,850.0,Online
+24,2026-03-07,Teclado Mecânico,Periféricos,5,250.0,Loja Física
+25,2026-05-17,Cadeira Ergonômica,Móveis,4,1100.0,Online
+26,2026-04-21,Mouse Gamer,Periféricos,5,120.0,Loja Física
+27,2026-07-07,Webcam HD,Periféricos,4,180.0,E-commerce
+28,2026-01-08,Teclado Mecânico,Periféricos,3,250.0,Loja Física
+29,2026-03-21,Monitor 24,Monitores,3,850.0,E-commerce
+30,2026-05-05,Cadeira Ergonômica,Móveis,1,1100.0,Loja Física
+31,2026-04-28,Headset USB,Áudio,4,200.0,Online
+32,2026-06-21,Webcam HD,Periféricos,4,180.0,Online
+33,2026-02-22,Teclado Mecânico,Periféricos,4,250.0,E-commerce
+34,2026-03-04,Cadeira Ergonômica,Móveis,3,1100.0,Loja Física
+35,2026-02-09,Cadeira Ergonômica,Móveis,2,1100.0,E-commerce
+36,2026-04-01,Mouse Gamer,Periféricos,4,120.0,E-commerce
+37,2026-05-30,Webcam HD,Periféricos,2,180.0,E-commerce
+38,2026-01-08,Teclado Mecânico,Periféricos,3,250.0,Online
+39,2026-06-29,Webcam HD,Periféricos,2,180.0,Online
+40,2026-05-14,Cadeira Ergonômica,Móveis,4,1100.0,Online
+41,2026-02-14,Monitor 24,Monitores,3,850.0,E-commerce
+42,2026-05-30,Mouse Gamer,Periféricos,2,120.0,E-commerce
+43,2026-01-27,Monitor 24,Monitores,5,850.0,Online
+44,2026-02-28,Monitor 24,Monitores,1,850.0,E-commerce
+45,2026-01-08,Headset USB,Áudio,1,200.0,Loja Física
+46,2026-05-25,Mouse Gamer,Periféricos,2,120.0,Loja Física
+47,2026-05-23,Monitor 24,Monitores,1,850.0,Online
+48,2026-05-01,Teclado Mecânico,Periféricos,5,250.0,Loja Física
+49,2026-02-02,Teclado Mecânico,Periféricos,5,250.0,E-commerce
+50,2026-02-13,Headset USB,Áudio,1,200.0,Loja Física
